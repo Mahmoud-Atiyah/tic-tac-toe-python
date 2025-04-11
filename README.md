@@ -18,7 +18,8 @@ This is a simple terminal-based Tic Tac Toe game where you play as **X** against
 
 Run the script:
 
-python Tic Tac Toe.py
+```bash python Tic Tac Toe.py
+
 You’ll be prompted to choose a position from 1–9
 
 The CPU plays automatically after your move
